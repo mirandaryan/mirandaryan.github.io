@@ -46085,7 +46085,7 @@ vC(){var s=0,r=A.M(t.H),q=1,p,o=this,n,m,l,k,j,i
 var $async$vC=A.H(function(a,b){if(a===1){p=b
 s=q}while(true)switch(s){case 0:q=3
 s=6
-return A.Q(A.aUb(A.iT("http://api.weatherapi.com/v1/current.json?key=1839160156f14892882223935231407&q="+o.b+"&aqi=no")),$async$vC)
+return A.Q(A.aUb(A.iT("https://api.weatherapi.com/v1/current.json?key=1839160156f14892882223935231407&q="+o.b+"&aqi=no")),$async$vC)
 case 6:n=b
 k=n
 m=B.di.SH(0,A.aTU(A.aRu(k.e).c.a.h(0,"charset")).fA(0,k.w),null)
